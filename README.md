@@ -23,7 +23,7 @@ It uses Python’s built-in libraries to ensure randomness and security.
   * Special characters
  
   
-*used Modules:
+## used Modules:
 
     *String
     *random
